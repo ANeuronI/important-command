@@ -1,4 +1,5 @@
 # Important-Command
+
 some important command which is very much used
 
 ---
@@ -13,15 +14,15 @@ some important command which is very much used
 
            #### Activating virtual env in Windows :
      
-             ``` myenv\Scripts\activate.bat```
+           ``` myenv\Scripts\activate.bat```
 
            #### Activating virtual env in Linux :
      
-            ``` source myenv/bin/activate ```
+    ``` source myenv/bin/activate ```
             
     3. ### De - activating virtual env
     
-            ``` deactivate```
+        ``` deactivate```
 ---
 
 2.   #### some time activating the environment in windows is blocked by terminal due to sequrity access
