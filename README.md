@@ -32,13 +32,13 @@ some important command which is very much used
           
        2. ### Set Execution Policy:
   
-           #### RemoteSigned #### :
+           #### RemoteSigned :
           
              Requires that all scripts and configuration files downloaded from the Internet be signed by a trusted publisher.
 
              ```  Set-ExecutionPolicy RemoteSigned ```
           
-           #### Unrestricted #### :
+           #### Unrestricted :
           
             Allows all scripts and configuration files to run. If you run an unsigned script that was downloaded from the Internet, you will be prompted for permission before it runs.
 
@@ -46,11 +46,11 @@ some important command which is very much used
           
        4.   #### those policy can be applied for current users which was signed in or can be used by current session :
 
-             #### current user #### :
+             #### current user :
 
              ``` Set-ExecutionPolicy RemoteSigned -Scope CurrentUser  ```
 
-            ### current session ### :
+            ### current session :
 
             ``` Set-ExecutionPolicy RemoteSigned -Scope Process ```
 
