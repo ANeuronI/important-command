@@ -8,7 +8,7 @@ some important command which is very much used
    
      1. ### Creating the virtual environment same in both linux and windows 
      
-         ``` virtualenv myenv ```
+          virtualenv myenv 
    
      2. ### Activating virtual env
 
