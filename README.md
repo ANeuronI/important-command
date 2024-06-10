@@ -5,23 +5,23 @@ some important command which is very much used
 
 1. # Virtual env in windows and Linux
    
-  1. ### Creating the virtual environment same in both linux and windows 
-    
-   ``` virtualenv myenv ```
+     1. ### Creating the virtual environment same in both linux and windows 
+     
+         ``` virtualenv myenv ```
    
-  2. ### Activating virtual env
+     2. ### Activating virtual env
 
-     #### Activating virtual env in Windows :
+           #### Activating virtual env in Windows :
      
-     ``` myenv\Scripts\activate.bat```
+             ``` myenv\Scripts\activate.bat```
 
-     #### Activating virtual env in Linux :
+           #### Activating virtual env in Linux :
      
-     ``` source myenv/bin/activate ```
+            ``` source myenv/bin/activate ```
             
-  3. ### De - activating virtual env
+    3. ### De - activating virtual env
     
-     ``` deactivate```
+            ``` deactivate```
 ---
 
 2.   #### some time activating the environment in windows is blocked by terminal due to sequrity access
