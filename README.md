@@ -19,7 +19,7 @@ some important command which is very much used
      
      ``` source myenv/bin/activate ```
             
-  2. ### De - activating virtual env
+  3. ### De - activating virtual env
     
      ``` deactivate```
 ---
